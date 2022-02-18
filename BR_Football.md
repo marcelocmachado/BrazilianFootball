@@ -1,5 +1,7 @@
 # Brazilian Football League (2003-2021) EDA
 
+![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
+
 This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. 
 
 In 2003 the tournament changed its system to a _**round-robin**_ tournament (or all-play-all tournament), which is a competition in which each team meets every other participant. Before the round-robin system, the Brazilian Football League was played in a cup system, with a group stage - where only a few teams would get qualified to the next round - followed by a knock-out stage - where the teams that lost would get eliminated.
@@ -10,7 +12,9 @@ The team that accumulates the highest sum of points will automatically be the ch
 
 ## Cleaning and Formatting Data
 
-The dataset needs cleaning and translating
+For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021.
+
+
 
 ```
 # Checking names of columns
