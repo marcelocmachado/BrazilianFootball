@@ -79,3 +79,9 @@ br$Result = mapply(resFunc, br$HG, br$AG)
 br = rbind(br,br21)
 
 ```
+|Machine|Whole|Cluster|Crunch|Roasted|
+|:------:|:------:|:------:|:------:|:------:|
+|Hulling|1.00|1.00|1.00|1.00|
+|Roasting|2.00|1.50|1.00|4.00|
+|Coating|1.00|0.70|0.20|0|
+|Packaging|2.50|1.60|1.25|1.00|
