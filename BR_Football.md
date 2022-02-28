@@ -177,7 +177,7 @@ Obviously, teams haven't played the same amount of games. To evaluate the team's
 | 9  | Goias       | 439 | 274 | 713   | 514         | 1.387159533  |
 | 10 | Bragantino  | 62  | 43  | 105   | 76          | 1.381578947  |
 
-![Screenshot](cededGoalsPerGame.png)
+![Screenshot](goalsPerGame.png)
 
 Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location.
 
@@ -197,6 +197,8 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 10 | Palmeiras    | 344 | 436 | 780 |
 
 ### Highest ceded goal avg
+
+![Screenshot](cededGoalsPerGame.png)
 
 #### Insert "ceded goals" bar plot here
 
