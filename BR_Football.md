@@ -254,6 +254,3 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 # RESULTS
 
-* [x] Task1
-* [ ] Task2
-* [x] Task3
