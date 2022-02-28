@@ -98,9 +98,9 @@ The following table shows the teams with the most appearences in the First Divis
 |  9 |     Gremio    |       700       |
 | 10 |    Cruzeiro   |       666       |
 
-> We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
+We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
-### Insert Graph Here
+#### Insert Graph Here
 
 ## GOALS
 
@@ -143,7 +143,7 @@ We can see that the year with the lowest home influence in goal scoring was 2020
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
 
-### plot with hg ag tg per season
+#### plot with hg ag tg per season
 
 ### Highest scoring teams across all seasons
 
@@ -196,5 +196,64 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 ### Highest ceded goal avg
 
-### Insert bar blot here
+#### Insert "ceded goals" bar plot here
 
+### Best & Worst Scoring Teams per Season
+
+#### Best
+
+| **Season** | **Team**        | **HG** | **AG** | **Total** |
+|:--------:|:-------------:|:----:|:----:|:-------:|
+| 2003   | Cruzeiro    | 61 | 41 | 102   |
+| 2004   | Santos      | 64 | 39 | 103   |
+| 2005   | Corinthians | 48 | 39 | 87    |
+| 2006   | Sao Paulo   | 40 | 26 | 66    |
+| 2007   | Cruzeiro    | 43 | 30 | 73    |
+| 2008   | Flamengo    | 42 | 25 | 67    |
+| 2009   | Gremio      | 53 | 14 | 67    |
+| 2010   | Gremio      | 41 | 27 | 68    |
+| 2011   | Fluminense  | 36 | 24 | 60    |
+| 2012   | Atletico-Mg | 42 | 22 | 64    |
+| 2013   | Cruzeiro    | 47 | 30 | 77    |
+| 2014   | Cruzeiro    | 43 | 24 | 67    |
+| 2015   | Corinthians | 41 | 30 | 71    |
+| 2016   | Palmeiras   | 35 | 27 | 62    |
+| 2017   | Palmeiras   | 35 | 26 | 61    |
+| 2018   | Palmeiras   | 42 | 22 | 64    |
+| 2019   | Flamengo    | 56 | 30 | 86    |
+| 2020   | Flamengo    | 35 | 33 | 68    |
+| 2021   | Flamengo    | 31 | 38 | 69    |
+
+#### Worst
+
+| **Season** | **Team**        | **HG** | **AG** | **Total** |
+|:--------:|:-------------:|:----:|:----:|:-------:|
+| 2003 | Vitoria      | 30 | 20 | 50 |
+| 2004 | Guarani      | 22 | 21 | 43 |
+| 2004 | Ponte Preta  | 27 | 16 | 43 |
+| 2005 | Brasiliense  | 26 | 23 | 49 |
+| 2006 | Sao Caetano  | 20 | 17 | 37 |
+| 2007 | America-Rn   | 12 | 12 | 24 |
+| 2008 | Ipatinga     | 28 | 9  | 37 |
+| 2009 | Athletico-PR | 24 | 18 | 42 |
+| 2010 | Guarani      | 17 | 16 | 33 |
+| 2011 | Athletico-PR | 23 | 15 | 38 |
+| 2012 | Bahia        | 16 | 21 | 37 |
+| 2012 | Ponte Preta  | 22 | 15 | 37 |
+| 2012 | Atletico-GO  | 21 | 16 | 37 |
+| 2013 | Nautico      | 14 | 8  | 22 |
+| 2014 | Criciuma     | 19 | 9  | 28 |
+| 2015 | Joinville    | 19 | 7  | 26 |
+| 2016 | America-Mg   | 13 | 10 | 23 |
+| 2017 | Avai        | 15 | 14 | 29 |
+| 2018 | Parana       | 13 | 5  | 18 |
+| 2019 | Avai        | 10 | 8  | 18 |
+| 2020 | Coritiba     | 13 | 18 | 31 |
+| 2020 | Sport        | 19 | 12 | 31 |
+| 2021 | Sport        | 13 | 11 | 24 |
+
+# RESULTS
+
+* [x] Task1
+* [ ] Task2
+* [x] Task3
