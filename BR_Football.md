@@ -1,4 +1,5 @@
 # Brazilian Football League (2003-2021) EDA
+### Data Analysis with R
 
 ![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
 
@@ -9,6 +10,17 @@ In 2003 the tournament changed its system to a _**round-robin**_ tournament (or 
 In the current system, at the end of a match, the winning team is rewarded with three points and the losing team with zero. If the match ends up as a tie, both teams are rewarded with one point.
 
 The team that accumulates the highest sum of points will automatically be the champion. The bottom four teams are automatically relegated to the second division.
+
+## Summary
+### 1. Cleaning and Formatting Data
+### 2. Appearences
+### 3. Goals
+### 4. Results
+
+1. Cleaning and Formatting Data
+2. Appearences
+3. Goals
+4. Results
 
 ## Cleaning and Formatting Data
 
