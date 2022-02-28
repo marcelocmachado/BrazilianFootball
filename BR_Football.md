@@ -104,7 +104,7 @@ We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and *
 
 ## GOALS
 
-# Goals intro
+#### Insert goals intro
 
 | **Season** | **homeGoals** | **awayGoals** | **totalGoals** | **homeGoals %**     | **awayGoals %**    |
 |:--------:|:-----------:|:-----------:|:------------:|:-------------:|:-------------:|
