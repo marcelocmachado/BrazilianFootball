@@ -138,10 +138,63 @@ We can notice that only 4 teams - Flamengo, Fluminense, Santos and Sao Paulo hav
 
 We can see that the year with the lowest home influence in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
 
-| **Season** | **homeGoals (%)** | **awayGoals (%)** |     | oi |
-|:----------:|:-----------------:|:-----------------:|     | oi |
-|    2008    |      63.57488     |      36.42512     |     | oi |
-|    2020    |      56.77966     |      43.22034     |     | oi |
+| **Season** | **homeGoals (%)** | **awayGoals (%)** |
+|:----------:|:-----------------:|:-----------------:|
+|    2008    |      63.57488     |      36.42512     |
+|    2020    |      56.77966     |      43.22034     |
 
 ### plot with hg ag tg per season
+
+### Highest scoring teams across all seasons
+
+|    | **Team**          | **HG**  | **AG**  | **Total** |
+|:----:|:---------------:|:-----:|:-----::|-------:|
+| 1  | Santos        | 674 | 421 | 1095  |
+| 2  | Sao Paulo     | 624 | 444 | 1068  |
+| 3  | Flamengo      | 616 | 437 | 1053  |
+| 4  | Atletico-MG   | 624 | 410 | 1034  |
+| 5  | Fluminense    | 555 | 429 | 984   |
+| 6  | Cruzeiro      | 590 | 388 | 978   |
+| 7  | Gremio        | 606 | 350 | 956   |
+| 8  | Palmeiras     | 567 | 380 | 947   |
+| 9  | Internacional | 565 | 372 | 937   |
+| 10 | Athletico-PR  | 580 | 353 | 933   |
+
+Obviously, teams haven't played the same amount of games. To evaluate the team's attacking power, we have to consider their average of goals scored per game played.
+
+### Highest avg
+
+|    | **Team**        | **HG**  | **AG**  | **Total** | **Appearences** | **GoalsPerGame** |
+|:----:|:-------------:|:-----:|:-----:|:-------:|:-------------:|:--------------:|
+| 1  | Barueri     | 35  | 24  | 59    | 38          | 1.552631579  |
+| 2  | Santos      | 674 | 421 | 1095  | 742         | 1.47574124   |
+| 3  | Atletico-MG | 624 | 410 | 1034  | 704         | 1.46875      |
+| 4  | Cruzeiro    | 590 | 388 | 978   | 666         | 1.468468468  |
+| 5  | Paysandu    | 132 | 61  | 193   | 134         | 1.440298507  |
+| 6  | Sao Paulo   | 624 | 444 | 1068  | 742         | 1.4393531    |
+| 7  | Palmeiras   | 567 | 380 | 947   | 658         | 1.439209726  |
+| 8  | Flamengo    | 616 | 437 | 1053  | 742         | 1.419137466  |
+| 9  | Goias       | 439 | 274 | 713   | 514         | 1.387159533  |
+| 10 | Bragantino  | 62  | 43  | 105   | 76          | 1.381578947  |
+
+Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location.
+
+### Most ceded goals
+
+|    | **Team**        | **cededGoalsHome**  | **cededGoalsAway**  | **Total** |
+|:----:|:-------------:|:-----:|:-----:|:-------:|
+| 1  | Fluminense   | 380 | 564 | 944 |
+| 2  | Atletico-Mg  | 374 | 535 | 909 |
+| 3  | Flamengo     | 350 | 531 | 881 |
+| 4  | Santos       | 342 | 535 | 877 |
+| 5  | Athletico-Pr | 321 | 553 | 874 |
+| 6  | Vasco        | 344 | 488 | 832 |
+| 7  | Cruzeiro     | 356 | 462 | 818 |
+| 8  | Botafogo-Rj  | 344 | 457 | 801 |
+| 9  | Sao Paulo    | 318 | 481 | 799 |
+| 10 | Palmeiras    | 344 | 436 | 780 |
+
+### Highest ceded goal avg
+
+### Insert bar blot here
 
