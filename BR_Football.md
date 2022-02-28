@@ -79,11 +79,49 @@ br$Result = mapply(resFunc, br$HG, br$AG)
 br = rbind(br,br21)
 
 ```
-<p align="center">
-|:------:|:------:|:------:|:------:|:------:|
-|Hulling|1.00|1.00|1.00|1.00|
-|Roasting|2.00|1.50|1.00|4.00|
-|Coating|1.00|0.70|0.20|0|
-|Packaging|2.50|1.60|1.25|1.00|
-</p>|Machine|Whole|Cluster|Crunch|Roasted|
+## APPEARENCES
 
+Not all clubs have same amount of games played in the First Division tournament. Some got relegated and some were promoted to the First Division after 2003.
+
+The following table shows the teams with the most appearences in the First Division.
+
+|    |    **Team**   | **Appearences** |
+|:--:|:-------------:|:---------------:|
+|  1 |    Flamengo   |       742       |
+|  2 |   Fluminense  |       742       |
+|  3 |     Santos    |       742       |
+|  4 |   Sao Paulo   |       742       |
+|  5 |  Athletico-PR |       704       |
+|  6 |  Atletico-MG  |       704       |
+|  7 |  Corinthians  |       704       |
+|  8 | Internacional |       704       |
+|  9 |     Gremio    |       700       |
+| 10 |    Cruzeiro   |       666       |
+
+We can notice that only 4 teams - Flamengo, Fluminense, Santos and Sao Paulo have participated in all First Division Seasons (2003-2021).
+
+### Insert Graph Here
+
+## GOALS
+
+|    | Season | homeGoals | awayGoals | totalGoals | HG_perc     | AG_perc     |
+|:----:|:--------:|:-----------:|:-----------:|:------------:|:-------------:|:-------------:|
+| 1  | 2003   | 982       | 610       | 1592       | 61.68341709 | 38.31658291 |
+| 2  | 2004   | 947       | 587       | 1534       | 61.73402868 | 38.26597132 |
+| 3  | 2005   | 835       | 616       | 1451       | 57.54651964 | 42.45348036 |
+| 4  | 2006   | 604       | 426       | 1030       | 58.6407767  | 41.3592233  |
+| 5  | 2007   | 634       | 413       | 1047       | 60.55396371 | 39.44603629 |
+| 6  | 2008   | 658       | 377       | 1035       | 63.57487923 | 36.42512077 |
+| 7  | 2009   | 660       | 434       | 1094       | 60.32906764 | 39.67093236 |
+| 8  | 2010   | 581       | 397       | 978        | 59.40695297 | 40.59304703 |
+| 9  | 2011   | 610       | 407       | 1017       | 59.98033432 | 40.01966568 |
+| 10 | 2012   | 559       | 380       | 939        | 59.5314164  | 40.4685836  |
+| 11 | 2013   | 558       | 378       | 936        | 59.61538462 | 40.38461538 |
+| 12 | 2014   | 540       | 320       | 860        | 62.79069767 | 37.20930233 |
+| 13 | 2015   | 555       | 342       | 897        | 61.8729097  | 38.1270903  |
+| 14 | 2016   | 564       | 348       | 912        | 61.84210526 | 38.15789474 |
+| 15 | 2017   | 526       | 397       | 923        | 56.98808234 | 43.01191766 |
+| 16 | 2018   | 525       | 302       | 827        | 63.48246675 | 36.51753325 |
+| 17 | 2019   | 525       | 351       | 876        | 59.93150685 | 40.06849315 |
+| 18 | 2020   | 536       | 408       | 944        | 56.77966102 | 43.22033898 |
+| 19 | 2021   | 483       | 359       | 842        | 57.36342043 | 42.63657957 |
