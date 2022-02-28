@@ -98,7 +98,7 @@ The following table shows the teams with the most appearences in the First Divis
 |  9 |     Gremio    |       700       |
 | 10 |    Cruzeiro   |       666       |
 
-We can notice that only 4 teams - Flamengo, Fluminense, Santos and Sao Paulo have participated in all First Division Seasons (2003-2021).
+> We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
 ### Insert Graph Here
 
