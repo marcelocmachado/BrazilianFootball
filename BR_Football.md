@@ -148,7 +148,7 @@ We can see that the year with the lowest home influence in goal scoring was 2020
 ### Highest scoring teams across all seasons
 
 |    | **Team**          | **HG**  | **AG**  | **Total** |
-|:----:|:---------------:|:-----:|:-----::|-------:|
+|:----:|:---------------:|:-----:|:-----:|-------:|
 | 1  | Santos        | 674 | 421 | 1095  |
 | 2  | Sao Paulo     | 624 | 444 | 1068  |
 | 3  | Flamengo      | 616 | 437 | 1053  |
