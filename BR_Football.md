@@ -225,7 +225,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2021   | Flamengo    | 31 | 38 | 69    |
 
 #### Worst
-
+| WORST |
 | **Season** | **Team**        | **HG** | **AG** | **Total** |
 |:--------:|:-------------:|:----:|:----:|:-------:|
 | 2003 | Vitoria      | 30 | 20 | 50 |
