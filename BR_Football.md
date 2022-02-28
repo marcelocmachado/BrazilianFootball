@@ -104,6 +104,8 @@ We can notice that only 4 teams - Flamengo, Fluminense, Santos and Sao Paulo hav
 
 ## GOALS
 
+# Goals intro
+
 | **Season** | **homeGoals** | **awayGoals** | **totalGoals** | **homeGoals %**     | **awayGoals %**    |
 |:--------:|:-----------:|:-----------:|:------------:|:-------------:|:-------------:|
 | 2003   | 982       | 610       | 1592       | 61.68341709 | 38.31658291 |
@@ -125,3 +127,21 @@ We can notice that only 4 teams - Flamengo, Fluminense, Santos and Sao Paulo hav
 | 2019   | 525       | 351       | 876        | 59.93150685 | 40.06849315 |
 | 2020   | 536       | 408       | 944        | 56.77966102 | 43.22033898 |
 | 2021   | 483       | 359       | 842        | 57.36342043 | 42.63657957 |
+
+### Average of Home and Away goals across all seasons
+
+| **homeGoals AVG (%)** | **awayGoals AVG (%)** |
+|:---------------------:|:---------------------:|
+|        60.19198       |        39.80802       |
+
+60% of goals scored across all seasons were scored by teams playing at home - high influence
+
+We can see that the year with the lowest home influence in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
+
+| **Season** | **homeGoals (%)** | **awayGoals (%)** |     | oi |
+|:----------:|:-----------------:|:-----------------:|     | oi |
+|    2008    |      63.57488     |      36.42512     |     | oi |
+|    2020    |      56.77966     |      43.22034     |     | oi |
+
+### plot with hg ag tg per season
+
