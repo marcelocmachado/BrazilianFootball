@@ -51,13 +51,11 @@ The following table shows the teams with the most appearences in the First Divis
 |  9 |     Gremio    |       700       |
 | 10 |    Cruzeiro   |       666       |
 
-
-
-#### Insert Graph Here
-
 ## GOALS
 
-#### Insert goals intro
+Goals are the main essence of football's existence. :soccer: Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands::clap:
+
+The following table shows the sum of goals in each season scored by all teams combined playing at home and away, and the total. By doing a simple calculation, we come up with the percentage of goals scored home and away.
 
 | **Season** | **homeGoals** | **awayGoals** | **totalGoals** | **homeGoals %**     | **awayGoals %**    |
 |:--------:|:-----------:|:-----------:|:------------:|:-------------:|:-------------:|
@@ -81,15 +79,17 @@ The following table shows the teams with the most appearences in the First Divis
 | 2020   | 536       | 408       | 944        | 56.77966102 | 43.22033898 |
 | 2021   | 483       | 359       | 842        | 57.36342043 | 42.63657957 |
 
+We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the golas scored.
+
 ### Average of Home and Away goals across all seasons
 
 | **homeGoals AVG (%)** | **awayGoals AVG (%)** |
 |:---------------------:|:---------------------:|
 |        60.19198       |        39.80802       |
 
-60% of goals scored across all seasons were scored by teams playing at home - high influence
+ > 60% of goals scored across all seasons were scored by teams playing at home
 
-We can see that the year with the lowest home influence in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
+It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
 
 | **Season** | **homeGoals (%)** | **awayGoals (%)** |
 |:----------:|:-----------------:|:-----------------:|
