@@ -3,13 +3,13 @@
 
 ![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
 
-This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. 
+This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. :br:
 
 In 2003 the tournament changed its system to a _**round-robin**_ tournament (or all-play-all tournament), which is a competition in which each team meets every other participant. Before the round-robin system, the Brazilian Football League was played in a cup system, with a group stage - where only a few teams would get qualified to the next round - followed by a knock-out stage - where the teams that lost would get eliminated.
 
 In the current system, at the end of a match, the winning team is rewarded with three points and the losing team with zero. If the match ends up as a tie, both teams are rewarded with one point.
 
-The team that accumulates the highest sum of points will automatically be the champion. The bottom four teams are automatically relegated to the second division.
+The team that accumulates the highest sum of points will automatically be the champion. :trophy: The bottom four teams are automatically relegated to the second division.
 
 ## Summary
 
