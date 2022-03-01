@@ -22,7 +22,7 @@ The team that accumulates the highest sum of points will automatically be the ch
 
 For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021.
 
-
+ 
 
 ```r
 # Checking names of columns
