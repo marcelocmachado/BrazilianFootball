@@ -53,6 +53,8 @@ The following table shows the teams with the most appearences in the First Divis
 
 ## GOALS
 
+![alt text](https://s3.amazonaws.com/assets-fluminense/uploads%2F1609078711928-50763954468_4e8f0c0ac6_c.jpg)
+
 Goals are the main essence of football's existence. Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands:
 
 The following table shows the sum of goals in each season scored by all teams combined playing at home and away, and the total. By doing a simple calculation, we come up with the percentage of goals scored home and away.
