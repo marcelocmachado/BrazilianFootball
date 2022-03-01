@@ -12,10 +12,6 @@ In the current system, at the end of a match, the winning team is rewarded with 
 The team that accumulates the highest sum of points will automatically be the champion. The bottom four teams are automatically relegated to the second division.
 
 ## Summary
-### 1. Cleaning and Formatting Data
-### 2. Appearences
-### 3. Goals
-### 4. Results
 
 1. Cleaning and Formatting Data
 2. Appearences
@@ -93,7 +89,13 @@ br = rbind(br,br21)
 ```
 ## APPEARENCES
 
-Not all clubs have same amount of games played in the First Division tournament. Some got relegated and some were promoted to the First Division after 2003.
+The Brazilian Football League First division has been played by 46 different clubs during its round-robin system era (03-21). 
+
+The top 15 teams that participated in most seasons are displayed in the graph below:
+
+![Screenshot](seasonsPlayed.png)
+
+In 2003 and 2004, 24 teams played the First Division. The goal after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
 The following table shows the teams with the most appearences in the First Division.
 
@@ -269,4 +271,6 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2021 | Sport        | 13 | 11 | 24 |
 
 # RESULTS
+
+As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles. Coming up next are _______. 
 
