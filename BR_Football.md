@@ -213,5 +213,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 # RESULTS
 
+![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
+
 As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles. Coming up next are _______. 
 
