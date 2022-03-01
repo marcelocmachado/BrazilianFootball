@@ -22,82 +22,21 @@ The team that accumulates the highest sum of points will automatically be the ch
 
 For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021.
 
- 
 
-```r
-# Checking names of columns
-head(br)
-
-# Dropping unused columns
-br = br[-c(3:4,7:8,11:13)]
-
-# Changing (translating) column names
-colnames(br) = c('Round','Season','Home','Away','HG','AG')
-
-# Extracting the year of the date
-br$Season = as.numeric(str_sub(br$Season, -4, -1))
-
-# Part of the 2020 Season was played in 2021, due to COVID. So it is necessary
-# to fix the season year
-br$Season[br$Season == 2021] = 2020
-
-# Cleaning HOME names
-
-br$Home = gsub('Ã£', 'a', br$Home)
-br$Home = gsub('Ã©', 'e', br$Home)
-br$Home = gsub('Ã¡', 'a', br$Home)
-br$Home = gsub('Ãº', 'u', br$Home)
-br$Home = gsub('Ãª', 'e', br$Home)
-br$Home = gsub('Ã³', 'o', br$Home)
-br$Home = gsub('Ã', 'i', br$Home)
-
-br$Home = str_to_title(tolower(br$Home))
-
-
-# Cleaning HOME names
-
-br$Away = gsub('Ã£', 'a', br$Away)
-br$Away = gsub('Ã©', 'e', br$Away)
-br$Away = gsub('Ã¡', 'a', br$Away)
-br$Away = gsub('Ãº', 'u', br$Away)
-br$Away = gsub('Ãª', 'e', br$Away)
-br$Away = gsub('Ã³', 'o', br$Away)
-br$Away = gsub('Ã', 'i', br$Away)
-
-br$Away = str_to_title(tolower(br$Away))
-
-# Function to determine if Home Team or Away Team won the match
-resFunc = function (HG, AG){
-    if (HG > AG)
-        br$Result = 'H'
-    else if (HG < AG)
-        br$Result = 'A'
-    else
-        br$Result = 'D'
-}
-
-# Assingning results to new column
-br$Result = mapply(resFunc, br$HG, br$AG)
-
-# Exporting clean table
-# write.csv(br, 'BRA-03-20_clean.csv')
-
-# Since this dataset only covers the seasons of 2003 until 2020, we will add
-# the data for the season of 2021 now, which is already formatted
-br = rbind(br,br21)
-
-```
 ## APPEARENCES
 
 The Brazilian Football League First division has been played by 46 different clubs during its round-robin system era (03-21). 
 
 The top 15 teams that participated in most seasons are displayed in the graph below:
 
+
 ![Screenshot](numSeasonsPlayed.png)
+
 
 In 2003 and 2004, 24 teams played the First Division. The goal after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
 The following table shows the teams with the most appearences in the First Division.
+
 
 |    |    **Team**   | **Appearences** |
 |:--:|:-------------:|:---------------:|
@@ -111,6 +50,7 @@ The following table shows the teams with the most appearences in the First Divis
 |  8 | Internacional |       704       |
 |  9 |     Gremio    |       700       |
 | 10 |    Cruzeiro   |       666       |
+
 
 We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
