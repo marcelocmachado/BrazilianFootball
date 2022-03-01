@@ -3,7 +3,7 @@
 
 ![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
 
-This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. :br:
+This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. :soccer:
 
 In 2003 the tournament changed its system to a _**round-robin**_ tournament (or all-play-all tournament), which is a competition in which each team meets every other participant. Before the round-robin system, the Brazilian Football League was played in a cup system, with a group stage - where only a few teams would get qualified to the next round - followed by a knock-out stage - where the teams that lost would get eliminated.
 
@@ -53,7 +53,7 @@ The following table shows the teams with the most appearences in the First Divis
 
 ## GOALS
 
-Goals are the main essence of football's existence. :soccer: Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands::clap:
+Goals are the main essence of football's existence. Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands:
 
 The following table shows the sum of goals in each season scored by all teams combined playing at home and away, and the total. By doing a simple calculation, we come up with the percentage of goals scored home and away.
 
