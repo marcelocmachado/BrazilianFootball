@@ -93,7 +93,7 @@ The Brazilian Football League First division has been played by 46 different clu
 
 The top 15 teams that participated in most seasons are displayed in the graph below:
 
-![Screenshot](seasonsPlayed.png)
+![Screenshot](numSeasonsPlayed.png)
 
 In 2003 and 2004, 24 teams played the First Division. The goal after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
