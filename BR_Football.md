@@ -151,7 +151,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 ### Highest ceded goal avg
 
-![Screenshot](cededGoalsPerGame.png)
+![Screenshot](cededPerGame.png)
 
 #### Insert "ceded goals" bar plot here
 
