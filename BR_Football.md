@@ -29,7 +29,7 @@ The Brazilian Football League First division has been played by 46 different clu
 
 The top 15 teams that participated in most seasons are displayed in the graph below:
 
-![Screenshot](numSeasonsPlayed.png)
+![Screenshot](totalSeasons_HL.png)
 
 We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
@@ -55,7 +55,6 @@ The following table shows the teams with the most appearences in the First Divis
 
 ![alt text](https://s3.amazonaws.com/assets-fluminense/uploads%2F1609078711928-50763954468_4e8f0c0ac6_c.jpg)
 
-![alt text](https://media.giphy.com/media/OOn6DMKQVNXARJD2d3/giphy.gif)
 
 Goals are the main essence of football's existence. Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands:
 
