@@ -202,7 +202,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 # RESULTS
 
 | **Season** | **Champion**    | **Total Points** | **Performance Rate** |
-|:--------:|:-------------:|:--------------|:------------------:|
+|:--------:|:-------------:|:--------------:|:------------------:|
 | 2003   | Cruzeiro    | 100          | 72.46%           |
 | 2004   | Santos      | 89           | 64.49%           |
 | 2005   | Corinthians | 81           | 64.29%           |
