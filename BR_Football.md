@@ -120,19 +120,6 @@ Obviously, teams haven't played the same amount of games. To evaluate the team's
 
 ### Highest avg
 
-|    | **Team**        | **HG**  | **AG**  | **Total** | **Appearences** | **GoalsPerGame** |
-|:----:|:-------------:|:-----:|:-----:|:-------:|:-------------:|:--------------:|
-| 1  | Barueri     | 35  | 24  | 59    | 38          | 1.552631579  |
-| 2  | Santos      | 674 | 421 | 1095  | 742         | 1.47574124   |
-| 3  | Atletico-MG | 624 | 410 | 1034  | 704         | 1.46875      |
-| 4  | Cruzeiro    | 590 | 388 | 978   | 666         | 1.468468468  |
-| 5  | Paysandu    | 132 | 61  | 193   | 134         | 1.440298507  |
-| 6  | Sao Paulo   | 624 | 444 | 1068  | 742         | 1.4393531    |
-| 7  | Palmeiras   | 567 | 380 | 947   | 658         | 1.439209726  |
-| 8  | Flamengo    | 616 | 437 | 1053  | 742         | 1.419137466  |
-| 9  | Goias       | 439 | 274 | 713   | 514         | 1.387159533  |
-| 10 | Bragantino  | 62  | 43  | 105   | 76          | 1.381578947  |
-
 ![Screenshot](goalPerGame.png)
 
 Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location.
