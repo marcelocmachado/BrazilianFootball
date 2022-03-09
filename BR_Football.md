@@ -99,7 +99,7 @@ It's interesting to see that the year with the _**lowest home influence**_ in go
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
 
-#### plot with hg ag tg per season
+![Screenshot](AG_HG_TT.png)
 
 ### Highest scoring teams across all seasons
 
