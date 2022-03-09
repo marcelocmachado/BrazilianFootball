@@ -82,7 +82,7 @@ The following table shows the sum of goals in each season scored by all teams co
 | 2020   | 536       | 408       | 944        | 56.77966102 | 43.22033898 |
 | 2021   | 483       | 359       | 842        | 57.36342043 | 42.63657957 |
 
-We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the golas scored.
+We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the goals scored.
 
 ### Average of Home and Away goals across all seasons
 
@@ -200,6 +200,28 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2021 | Sport        | 13 | 11 | 24 |
 
 # RESULTS
+
+| **Season** | **Champion**    | **Total Points** | **Performance Rate** |
+|:--------:|:-------------:|:--------------|:------------------:|
+| 2003   | Cruzeiro    | 100          | 72.46%           |
+| 2004   | Santos      | 89           | 64.49%           |
+| 2005   | Corinthians | 81           | 64.29%           |
+| 2006   | Sao Paulo   | 78           | 68.42%           |
+| 2007   | Sao Paulo   | 77           | 67.54%           |
+| 2008   | Sao Paulo   | 75           | 65.79%           |
+| 2009   | Flamengo    | 67           | 58.77%           |
+| 2010   | Fluminense  | 71           | 62.28%           |
+| 2011   | Corinthians | 71           | 62.28%           |
+| 2012   | Fluminense  | 77           | 67.54%           |
+| 2013   | Cruzeiro    | 76           | 66.67%           |
+| 2014   | Cruzeiro    | 80           | 70.18%           |
+| 2015   | Corinthians | 81           | 71.05%           |
+| 2016   | Palmeiras   | 80           | 70.18%           |
+| 2017   | Corinthians | 72           | 63.16%           |
+| 2018   | Palmeiras   | 80           | 70.18%           |
+| 2019   | Flamengo    | 90           | 78.95%           |
+| 2020   | Flamengo    | 71           | 62.28%           |
+| 2021   | Atletico-Mg | 84           | 73.68%           |
 
 ![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
 
