@@ -173,7 +173,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2020   | Flamengo    | 35 | 33 | 68    |
 | 2021   | Flamengo    | 31 | 38 | 69    |
 
-![Screenshot](plot_HighestTotalGoals)
+![Screenshot](plot_HighestTotalGoals.png)
 
 #### Worst
 
