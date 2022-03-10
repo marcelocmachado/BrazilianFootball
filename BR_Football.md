@@ -29,7 +29,7 @@ The Brazilian Football League First division has been played by 46 different clu
 
 The top 15 teams that participated in most seasons are displayed in the graph below:
 
-![Screenshot](totalSeasons_HL.png)
+![Screenshot](plot_num1stDivSeasons.png)
 
 We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
@@ -92,6 +92,8 @@ We can notice that in **ALL seasons** the teams playing home are responsible for
 
  > 60% of goals scored across all seasons were scored by teams playing at home
 
+![Screenshot](plot_HomeXAway.png)
+
 It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
 
 | **Season** | **homeGoals (%)** | **awayGoals (%)** |
@@ -99,7 +101,7 @@ It's interesting to see that the year with the _**lowest home influence**_ in go
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
 
-![Screenshot](AG_HG_TT.png)
+![Screenshot](plot_Comparison.png)
 
 ### Highest scoring teams across all seasons
 
@@ -120,7 +122,7 @@ Obviously, teams haven't played the same amount of games. To evaluate the team's
 
 ### Highest avg
 
-![Screenshot](goalPerGame.png)
+![Screenshot](plot_GoalsPerGame.png)
 
 Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location.
 
@@ -141,7 +143,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 ### Highest ceded goal avg
 
-![Screenshot](cededPerGame.png)
+![Screenshot](plot_CededGoals.png)
 
 #### Insert "ceded goals" bar plot here
 
@@ -170,6 +172,8 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2019   | Flamengo    | 56 | 30 | 86    |
 | 2020   | Flamengo    | 35 | 33 | 68    |
 | 2021   | Flamengo    | 31 | 38 | 69    |
+
+![Screenshot](plot_HighestTotalGoals)
 
 #### Worst
 
@@ -223,7 +227,20 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2020   | Flamengo    | 71           | 62.28%           |
 | 2021   | Atletico-Mg | 84           | 73.68%           |
 
+![Screenshot](plot_ChampPoints.png)
+
+![Screenshot](plot_HighestLowestChamp.png)
+
+![Screenshot](plot_ChampPerfRate.png)
+
+![Screenshot](plot_ChampPerfRate_HL.png)
+
+
 ![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
 
+
+
+
 As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles. Coming up next are _______. 
+
 
