@@ -1,4 +1,7 @@
 # Brazilian Football League (2003-2021) EDA
+#### _Marcelo de Campos Machado_
+#### _March, 2022_
+
 ### Data Analysis with R
 
 ![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
@@ -11,22 +14,15 @@ In the current system, at the end of a match, the winning team is rewarded with 
 
 The team that accumulates the highest sum of points will automatically be the champion. :trophy: The bottom four teams are automatically relegated to the second division.
 
-## Summary
+## CLEANING AND FORMATTING DATA
 
-1. Cleaning and Formatting Data
-2. Appearences
-3. Goals
-4. Results
-
-## Cleaning and Formatting Data
-
-For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021. The data was entirely in Portuguese, therefore translation was needed as well.
+For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021. Before analyzing the data, some unnecessary columns were removed and, since the data was entirely in Portuguese, translation to English was needed as well. 
 
 The programming code used for cleaning and for this analysis is available here: 
 
 > insert link for the code
 
-Let's get to the analysis!
+Let's get to the analysis! :bar_chart::chart_with_upwards_trend:
 
 ## APPEARENCES
 
@@ -36,9 +32,9 @@ The top 15 teams that participated in most seasons are displayed in the graph be
 
 ![Screenshot](plot_num1stDivSeasons.png)
 
-We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
+We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** - have participated in all First Division Seasons (2003-2021).
 
-In 2003 and 2004, 24 teams played the First Division. The objective after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
+In 2003 and 2004, 24 teams played the First Division. The objective after those years was to adopt the same format as most European leagues, such as the Premier League (England), La Liga (Spain), Serie A (Italy) and the Ligue 1 (France), with 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
 The following table shows the teams with the most appearences in the First Division.
 
@@ -55,6 +51,8 @@ The following table shows the teams with the most appearences in the First Divis
 |  8 | Internacional |       704       |
 |  9 |     Gremio    |       700       |
 | 10 |    Cruzeiro   |       666       |
+
+In the last season (2021), all the teams from the table above played in the Brazilian First Division with the exception of Cruzeiro - which has been relagated in the year of 2019, five years after their last League Title.
 
 ## GOALS
 
@@ -86,7 +84,7 @@ The following table shows the sum of goals in each season scored by all teams co
 | 2020   | 536       | 408       | 944        | 56.77966102 | 43.22033898 |
 | 2021   | 483       | 359       | 842        | 57.36342043 | 42.63657957 |
 
-We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the goals scored.
+We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the goals scored. 
 
 ### Average of Home and Away goals across all seasons
 
@@ -98,12 +96,13 @@ We can notice that in **ALL seasons** the teams playing home are responsible for
 
 ![Screenshot](plot_HomeXAway.png)
 
-It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes total sense since most of the games had no  due to COVID.
+It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes sense since most of the games were not open to the due to COVID, and the home team wouldn't have their supporters rooting for them.
 
 | **Season** | **homeGoals (%)** | **awayGoals (%)** |
 |:----------:|:-----------------:|:-----------------:|
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
+
 
 ![Screenshot](plot_Comparison.png)
 
