@@ -2,7 +2,7 @@
 #### _Marcelo de Campos Machado_
 #### _March, 2022_
 
-### Data Analysis with R
+## Data Analysis with R
 
 ![alt text](http://s.glbimg.com/es/ge/f/original/2012/11/18/festa_fred_fluminense3_andur.jpg)
 
@@ -60,6 +60,8 @@ In the last season (2021), all the teams from the table above played in the Braz
 
 Goals are the main essence of football's existence. Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands:
 
+### Home vs Away goal performance
+
 The following table shows the sum of goals in each season scored by all teams combined playing at home and away, and the total. By doing a simple calculation, we come up with the percentage of goals scored home and away.
 
 | **Season** | **homeGoals** | **awayGoals** | **totalGoals** | **homeGoals %**     | **awayGoals %**    |
@@ -86,27 +88,32 @@ The following table shows the sum of goals in each season scored by all teams co
 
 We can notice that in **ALL seasons** the teams playing home are responsible for the majority of the goals scored. 
 
-### Average of Home and Away goals across all seasons
+
+
+### Average Home and Away goals across all seasons
 
 | **homeGoals AVG (%)** | **awayGoals AVG (%)** |
 |:---------------------:|:---------------------:|
 |        60.19198       |        39.80802       |
 
- > 60% of goals scored across all seasons were scored by teams playing at home
+ > 60% of goals scored across all seasons were scored by teams playing at home.
+
+The following plot shows the gap between Home and Away goals across all seasons:
 
 ![Screenshot](plot_HomeXAway.png)
 
-It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes sense since most of the games were not open to the due to COVID, and the home team wouldn't have their supporters rooting for them.
+It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes sense since most of the games were not open to the public due to COVID, and the home team wouldn't have their supporters rooting for them.
 
 | **Season** | **homeGoals (%)** | **awayGoals (%)** |
 |:----------:|:-----------------:|:-----------------:|
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
 
-
 ![Screenshot](plot_Comparison.png)
 
-### Highest scoring teams across all seasons
+
+
+### Highest Scoring Teams Across All Seasons
 
 |    | **Team**          | **HG**  | **AG**  | **Total** |
 |:----:|:---------------:|:-----:|:-----:|-------:|
