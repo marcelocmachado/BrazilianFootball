@@ -20,8 +20,13 @@ The team that accumulates the highest sum of points will automatically be the ch
 
 ## Cleaning and Formatting Data
 
-For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021.
+For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021. The data was entirely in Portuguese, therefore translation was needed as well.
 
+The programming code used for cleaning and for this analysis is available here: 
+
+> insert link for the code
+
+Let's get to the analysis!
 
 ## APPEARENCES
 
@@ -33,7 +38,7 @@ The top 15 teams that participated in most seasons are displayed in the graph be
 
 We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and **Sao Paulo** have participated in all First Division Seasons (2003-2021).
 
-In 2003 and 2004, 24 teams played the First Division. The goal after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
+In 2003 and 2004, 24 teams played the First Division. The objective after those years was to have only 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
 The following table shows the teams with the most appearences in the First Division.
 
@@ -54,7 +59,6 @@ The following table shows the teams with the most appearences in the First Divis
 ## GOALS
 
 ![alt text](https://s3.amazonaws.com/assets-fluminense/uploads%2F1609078711928-50763954468_4e8f0c0ac6_c.jpg)
-
 
 Goals are the main essence of football's existence. Scoring a goal is the most exciting moments of the game. The feeling of seeing the ball hit the back of the net and win the game for your team is a remarkable experience.:raised_hands:
 
@@ -94,7 +98,7 @@ We can notice that in **ALL seasons** the teams playing home are responsible for
 
 ![Screenshot](plot_HomeXAway.png)
 
-It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes total sense since most of the games had no public due to COVID.
+It's interesting to see that the year with the _**lowest home influence**_ in goal scoring was 2020, which makes total sense since most of the games had no  due to COVID.
 
 | **Season** | **homeGoals (%)** | **awayGoals (%)** |
 |:----------:|:-----------------:|:-----------------:|
