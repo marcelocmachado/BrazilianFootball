@@ -174,6 +174,9 @@ Fluminense, Atletico-MG and Flamengo are at the top 3 clubs that conceded the hi
 When we look at the averages, not a single team from the previous table figures in the Ceded Goals per Game Played graph. America-RN conceded the incredible count of 80 goals in 2007, leading our rank with the average of 2.11 goals ceded per game. It was the only season they played in the First Division in the period of 2003-2021. 
 
 # RESULTS
+
+![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
+
 In the Goal section introduction, we mentioned that the goals are the essence. But being the best attack is not the main objective, collecting points is. The only way to win the title is to be the team that accumulates the highest amount of points.
 
 Our dataset did not show the points earned per game. It was necessary to assign the points to the Home and Away teams depending on the goal difference.
@@ -182,15 +185,9 @@ To recap, these were the points assigned:
 2. Defeat = 0 pts;
 3. Draw = 1 pt.
 
-
-![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
-
-
-
 Across nineteen seasons, among all 46 teams that played the tornament, only 9 were able to get the trophy in their hands.
 
 ![Screenshot](plot_PieTitles.png)
-
 
 As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles, representing close to 20% of possible titles. Coming up next are Sao Paulo, Cruzeiro and Flamengo, with 3 league titles each. 
 
@@ -220,7 +217,10 @@ The following table shows all the champions for each season, their total points 
 
 ### Highest sum of points among champions
 
+The graph below shows all of the champions total points across seasons:
 ![Screenshot](plot_ChampPts.png)
+
+Cruzeiro, in 2003, and Flamengo, in 2009, have been, respectively, the champions with the highest and the lowest sum of points.
 
 ![Screenshot](plot_ChampPts_HL.png)
 
@@ -234,6 +234,7 @@ The graph above shows all the percentages of points acquired, and the graph belo
 
 ![Screenshot](plot_ChampPerfRate_HL.png)
 
+Flamengo had both the best and worst campaing among champions, winning in 2019 with the incredible performance of 78.9%. In contrast, in 2009 they were able to win the title by winning only 58.8% of the points possible.
 
 # SUMMARY
 
