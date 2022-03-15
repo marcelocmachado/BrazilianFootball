@@ -174,9 +174,6 @@ Fluminense, Atletico-MG and Flamengo are at the top 3 clubs that conceded the hi
 When we look at the averages, not a single team from the previous table figures in the Ceded Goals per Game Played graph. America-RN conceded the incredible count of 80 goals in 2007, leading our rank with the average of 2.11 goals ceded per game. It was the only season they played in the First Division in the period of 2003-2021. 
 
 # RESULTS
-
-![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
-
 In the Goal section introduction, we mentioned that the goals are the essence. But being the best attack is not the main objective, collecting points is. The only way to win the title is to be the team that accumulates the highest amount of points.
 
 Our dataset did not show the points earned per game. It was necessary to assign the points to the Home and Away teams depending on the goal difference.
@@ -184,6 +181,11 @@ To recap, these were the points assigned:
 1. Victory = 3 pts;
 2. Defeat = 0 pts;
 3. Draw = 1 pt.
+
+
+![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
+
+
 
 Across nineteen seasons, among all 46 teams that played the tornament, only 9 were able to get the trophy in their hands.
 
