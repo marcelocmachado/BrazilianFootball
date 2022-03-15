@@ -1,11 +1,4 @@
-```
-############################################################
-
-# MARCELO MACHADO
-
-# BRAZILIAN FOOTBALL LEAGUE ANALYSIS
-
-############################################################
+```r
 
 # Load packages
 library(stringr)
