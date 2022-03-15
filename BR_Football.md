@@ -142,61 +142,11 @@ Santos, Sao Paulo and Flamengo figure at the top of the highest scoring teams of
 
 Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location. Santos, Cruzeiro and Atletico-MG follow Barueri with the highest average goal scoring.
 
-### Best & Worst Scoring Teams per Season
+### Best scoring teams per season
 
-#### Best
-
-| **Season** | **Team**        | **HG** | **AG** | **Total** |
-|:--------:|:-------------:|:----:|:----:|:-------:|
-| 2003   | Cruzeiro    | 61 | 41 | 102   |
-| 2004   | Santos      | 64 | 39 | 103   |
-| 2005   | Corinthians | 48 | 39 | 87    |
-| 2006   | Sao Paulo   | 40 | 26 | 66    |
-| 2007   | Cruzeiro    | 43 | 30 | 73    |
-| 2008   | Flamengo    | 42 | 25 | 67    |
-| 2009   | Gremio      | 53 | 14 | 67    |
-| 2010   | Gremio      | 41 | 27 | 68    |
-| 2011   | Fluminense  | 36 | 24 | 60    |
-| 2012   | Atletico-Mg | 42 | 22 | 64    |
-| 2013   | Cruzeiro    | 47 | 30 | 77    |
-| 2014   | Cruzeiro    | 43 | 24 | 67    |
-| 2015   | Corinthians | 41 | 30 | 71    |
-| 2016   | Palmeiras   | 35 | 27 | 62    |
-| 2017   | Palmeiras   | 35 | 26 | 61    |
-| 2018   | Palmeiras   | 42 | 22 | 64    |
-| 2019   | Flamengo    | 56 | 30 | 86    |
-| 2020   | Flamengo    | 35 | 33 | 68    |
-| 2021   | Flamengo    | 31 | 38 | 69    |
+Our next analysis shows the best attacking teams per season. From 2006 and on, the best attacks scored close to 70 goals, with a clear outlier in 2019, when Flamengo scored 86 goals in 38 games, with the incredible average of 2.3 goals scored per game. Palmeiras and Flamengo are clearly dominating this category in the last few years, both leading the best attack for three consecutive years (Palmeiras - 16, 17, 18; Flamengo - 19, 20, 21).
 
 ![Screenshot](plot_HighTotalGoals.png)
-
-#### Worst
-
-| **Season** | **Team**        | **HG** | **AG** | **Total** |
-|:--------:|:-------------:|:----:|:----:|:-------:|
-| 2003 | Vitoria      | 30 | 20 | 50 |
-| 2004 | Guarani      | 22 | 21 | 43 |
-| 2004 | Ponte Preta  | 27 | 16 | 43 |
-| 2005 | Brasiliense  | 26 | 23 | 49 |
-| 2006 | Sao Caetano  | 20 | 17 | 37 |
-| 2007 | America-Rn   | 12 | 12 | 24 |
-| 2008 | Ipatinga     | 28 | 9  | 37 |
-| 2009 | Athletico-PR | 24 | 18 | 42 |
-| 2010 | Guarani      | 17 | 16 | 33 |
-| 2011 | Athletico-PR | 23 | 15 | 38 |
-| 2012 | Bahia        | 16 | 21 | 37 |
-| 2012 | Ponte Preta  | 22 | 15 | 37 |
-| 2012 | Atletico-GO  | 21 | 16 | 37 |
-| 2013 | Nautico      | 14 | 8  | 22 |
-| 2014 | Criciuma     | 19 | 9  | 28 |
-| 2015 | Joinville    | 19 | 7  | 26 |
-| 2016 | America-Mg   | 13 | 10 | 23 |
-| 2017 | Avai        | 15 | 14 | 29 |
-| 2018 | Parana       | 13 | 5  | 18 |
-| 2019 | Avai        | 10 | 8  | 18 |
-| 2020 | Coritiba     | 13 | 18 | 31 |
-| 2020 | Sport        | 19 | 12 | 31 |
-| 2021 | Sport        | 13 | 11 | 24 |
 
 ### Most ceded goals
 
@@ -225,6 +175,25 @@ When we look at the averages, not a single team from the previous table figures 
 
 # RESULTS
 
+![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
+
+In the Goal section introduction, we mentioned that the goals are the essence. But being the best attack is not the main objective, collecting points is. The only way to win the title is to be the team that accumulates the highest amount of points.
+
+Our dataset did not show the points earned per game. It was necessary to assign the points to the Home and Away teams depending on the goal difference.
+To recap, these were the points assigned:
+1. Victory = 3 pts;
+2. Defeat = 0 pts;
+3. Draw = 1 pt.
+
+Across nineteen seasons, among all 46 teams that played the tornament, only 9 were able to get the trophy in their hands.
+
+![Screenshot](plot_PieTitles.png)
+
+
+As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles, representing close to 20% of possible titles. Coming up next are Sao Paulo, Cruzeiro and Flamengo, with 3 league titles each. 
+
+The following table shows all the champions for each season, their total points and performance rate (total points / points possible):
+
 | **Season** | **Champion**    | **Total Points** | **Performance Rate** |
 |:--------:|:-------------:|:--------------:|:------------------:|
 | 2003   | Cruzeiro    | 100          | 72.46%           |
@@ -236,7 +205,7 @@ When we look at the averages, not a single team from the previous table figures 
 | 2009   | Flamengo    | 67           | 58.77%           |
 | 2010   | Fluminense  | 71           | 62.28%           |
 | 2011   | Corinthians | 71           | 62.28%           |
-| 2012   | Fluminense  | 77           | 67.54%           |
+| 2012   | Fluminense  | 77           | 67.54%           | 
 | 2013   | Cruzeiro    | 76           | 66.67%           |
 | 2014   | Cruzeiro    | 80           | 70.18%           |
 | 2015   | Corinthians | 81           | 71.05%           |
@@ -247,21 +216,33 @@ When we look at the averages, not a single team from the previous table figures 
 | 2020   | Flamengo    | 71           | 62.28%           |
 | 2021   | Atletico-Mg | 84           | 73.68%           |
 
+### Highest sum of points among champions
+
 ![Screenshot](plot_ChampPts.png)
 
 ![Screenshot](plot_ChampPts_HL.png)
 
+### Highest Performance Rate
+
+We've seen that Cruzeiro had the campaign with the highest total points in 2003. However, we already know that at that time 24 teams were competing. So, who has the best and worst performances in terms of points gathered in relation to points possible?
+
 ![Screenshot](plot_ChampPerfRate.png)
+
+The graph above shows all the percentages of points acquired, and the graph below highlights the team with best and worst performances among champions:
 
 ![Screenshot](plot_ChampPerfRate_HL.png)
 
 
-![alt text](https://conteudo.cbf.com.br/cdn/thumbs/910x0/201711/20171126192717_0.jpeg)
+# SUMMARY
+
+The Brazilian League's First Division has been a pretty well balanced tournament. Although Corinthians is in the lead of league titles across these last 19 seasons, there is no clear domination. Unlike major European leagues such as Spain's La Liga where there is a clear dominance by Real Madrid and Barcelona, Brazil' tournament shows it is a much more plural league, making it more interesting and unpredictable since we can never know the outcome.
+
+Flamengo, Fluminense, Santos and Sao Paulo have been able to maintain themselves in the First Division throughout all 19 seasons, and all of them were able to win titles during the period of 2003 2021.
+
+Flamengo and Palmeiras, with major investments in football recently, were able to accomplish being the best attacks in the league for the last six years. Both of them were also able to win important continental titles and Brazilian cups - competitions that use the knock-out system - which shows how difficult it is to maintain consistency in round-robin tournaments.
 
 
-![Screenshot](plot_PieTitles.png)
 
 
-As shown above, Corinthians has been the most successful club in the history of the Brazilian Football league from 2003 to 2021 with 4 titles. Coming up next are Sao Paulo, Cruzeiro and Flamengo, with 3 league titles each. 
 
 
