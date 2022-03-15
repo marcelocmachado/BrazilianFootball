@@ -20,7 +20,7 @@ For this analysis, two datasets were utilized. The first provided data from the 
 
 The programming code used for cleaning and for this analysis is available here: 
 
-> insert link for the code
+> [Code](https://github.com/marcelocmachado/BrazilianFootball/blob/main/BrazilianFootball_code.md) 
 
 Let's get to the analysis! :bar_chart::chart_with_upwards_trend:
 
