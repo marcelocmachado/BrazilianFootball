@@ -109,11 +109,17 @@ It's interesting to see that the year with the _**lowest home influence**_ in go
 |    2008    |      63.57488     |      36.42512     |
 |    2020    |      56.77966     |      43.22034     |
 
+In this analysis, the Goal Comparison bar plot displays Home, Away and Total goals per season: 
+
 ![Screenshot](plot_Comparison.png)
 
+By looking at the graph above, we can see that the number of Total Goals is usually close to 1000. This pattern happens in all seasons with the exception of the first three (03-05), due to the greater number of teams competing in the championship in that period, as mentioned in the Appearences section. 
 
 
-### Highest Scoring Teams Across All Seasons
+
+### Highest scoring teams across all seasons
+
+Now let's see which teams score the most goals. In this analysis, we'll take a look at the top 10 teams with the best attacks of all editions.
 
 |    | **Team**          | **HG**  | **AG**  | **Total** |
 |:----:|:---------------:|:-----:|:-----:|-------:|
@@ -128,34 +134,13 @@ It's interesting to see that the year with the _**lowest home influence**_ in go
 | 9  | Internacional | 565 | 372 | 937   |
 | 10 | Athletico-PR  | 580 | 353 | 933   |
 
-Obviously, teams haven't played the same amount of games. To evaluate the team's attacking power, we have to consider their average of goals scored per game played.
+Santos, Sao Paulo and Flamengo figure at the top of the highest scoring teams of all time. Does it mean they are the most effective attacks? Obviously, teams haven't played the same amount of games. To evaluate the team's attacking power, we have to consider their average of goals scored per game played.
 
-### Highest avg
+### Highest average goal scoring
 
 ![Screenshot](plot_GoalsPerGame.png)
 
-Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location.
-
-### Most ceded goals
-
-|    | **Team**        | **cededGoalsHome**  | **cededGoalsAway**  | **Total** |
-|:----:|:-------------:|:-----:|:-----:|:-------:|
-| 1  | Fluminense   | 380 | 564 | 944 |
-| 2  | Atletico-Mg  | 374 | 535 | 909 |
-| 3  | Flamengo     | 350 | 531 | 881 |
-| 4  | Santos       | 342 | 535 | 877 |
-| 5  | Athletico-Pr | 321 | 553 | 874 |
-| 6  | Vasco        | 344 | 488 | 832 |
-| 7  | Cruzeiro     | 356 | 462 | 818 |
-| 8  | Botafogo-Rj  | 344 | 457 | 801 |
-| 9  | Sao Paulo    | 318 | 481 | 799 |
-| 10 | Palmeiras    | 344 | 436 | 780 |
-
-### Highest ceded goal avg
-
-![Screenshot](plot_CededGoals.png)
-
-#### Insert "ceded goals" bar plot here
+Curiously, Barueri has the highest average of goals per game. This team took part into the Brazilian League for only one season (2009), ending at the 11st position. After 2009, due to internal issues the team had to switch names and location. Santos, Cruzeiro and Atletico-MG follow Barueri with the highest average goal scoring.
 
 ### Best & Worst Scoring Teams per Season
 
@@ -212,6 +197,31 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 | 2020 | Coritiba     | 13 | 18 | 31 |
 | 2020 | Sport        | 19 | 12 | 31 |
 | 2021 | Sport        | 13 | 11 | 24 |
+
+### Most ceded goals
+
+As we have the best attacking teams, on the other hand we also have the teams with the poorest defences.
+
+|    | **Team**        | **cededGoalsHome**  | **cededGoalsAway**  | **Total** |
+|:----:|:-------------:|:-----:|:-----:|:-------:|
+| 1  | Fluminense   | 380 | 564 | 944 |
+| 2  | Atletico-Mg  | 374 | 535 | 909 |
+| 3  | Flamengo     | 350 | 531 | 881 |
+| 4  | Santos       | 342 | 535 | 877 |
+| 5  | Athletico-Pr | 321 | 553 | 874 |
+| 6  | Vasco        | 344 | 488 | 832 |
+| 7  | Cruzeiro     | 356 | 462 | 818 |
+| 8  | Botafogo-Rj  | 344 | 457 | 801 |
+| 9  | Sao Paulo    | 318 | 481 | 799 |
+| 10 | Palmeiras    | 344 | 436 | 780 |
+
+Fluminense, Atletico-MG and Flamengo are at the top 3 clubs that conceded the highest amount of goals. As we've discussed previously, Fluminense and Flamengo have played all 19 seasons of the Brazilian First Division, therefore it makes sense that they would accumulate more goals conceded than most of the teams.
+
+### Highest average ceded goals
+
+![Screenshot](plot_CededGoals.png)
+
+When we look at the averages, not a single team from the previous table figures in the Ceded Goals per Game Played graph. America-RN conceded the incredible count of 80 goals in 2007, leading our rank with the average of 2.11 goals ceded per game. It was the only season they played in the First Division in the period of 2003-2021. 
 
 # RESULTS
 
