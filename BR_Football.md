@@ -1,6 +1,5 @@
 # Brazilian Football League (2003-2021) EDA
 #### _Marcelo de Campos Machado_
-#### _March, 2022_
 
 ## Data Analysis with R
 
