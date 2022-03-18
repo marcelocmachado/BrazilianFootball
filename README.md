@@ -1,6 +1,5 @@
 # Brazilian Football League (2003-2021) EDA
 #### _Marcelo de Campos Machado_
-#### _March, 2022_
 
 ## Data Analysis with R
 
@@ -8,15 +7,15 @@
 
 This is an article about the history of the Brazilian Football League's first division between the year of 2003 and 2021. :soccer:
 
-In 2003 the tournament changed its system to a _**round-robin**_ tournament (or all-play-all tournament), which is a competition in which each team meets every other participant. Before the round-robin system, the Brazilian Football League was played in a cup system, with a group stage - where only a few teams would get qualified to the next round - followed by a knock-out stage - where the teams that lost would get eliminated.
+In 2003 the tournament changed its system to a _**round-robin**_ tournament (or all-play-all tournament), which is a competition in which each team competes against every other participant. Before the round-robin system, the Brazilian Football League was played in a cup system, with a group stage; only a few teams would qualify to the next round - followed by a knock-out stage - where the teams that lost were eliminated.
 
-In the current system, at the end of a match, the winning team is rewarded with three points and the losing team with zero. If the match ends up as a tie, both teams are rewarded with one point.
+In the current system, at the end of each match, the winning team is awarded three points and the losing team receives zero. If the match results in a tie, both teams are awarded one point.
 
 The team that accumulates the highest sum of points will automatically be the champion. :trophy: The bottom four teams are automatically relegated to the second division.
 
 ## CLEANING AND FORMATTING DATA
 
-For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021. Before analyzing the data, some unnecessary columns were removed and, since the data was entirely in Portuguese, translation to English was needed as well. 
+For this analysis, two datasets were utilized. The first provided data from the seasons of 2003-2020. For the most up-to-date analysis, the second dataset was scraped from the web, with the data of the season of 2021. Before analyzing the data, some unnecessary columns were removed and translated to English from Portuguese. 
 
 The programming code used for cleaning and for this analysis is available here: 
 
@@ -36,7 +35,7 @@ We can notice that only 4 teams - **Flamengo**, **Fluminense**, **Santos** and *
 
 In 2003 and 2004, 24 teams played the First Division. The objective after those years was to adopt the same format as most European leagues, such as the Premier League (England), La Liga (Spain), Serie A (Italy) and the Ligue 1 (France), with 20 teams participating. 2005 was a transitional year - with 22 teams - and finally, from 2006 until today, the tournament has 20 teams. Since not all clubs have same amount of games played in the First Division tournament - some got relegated and some were promoted to the First Division after 2003 - we have to find out the total number of games played to help us on further analysis.
 
-The following table shows the teams with the most appearences in the First Division.
+The table below shows the teams with the most appearences in the First Division.
 
 
 |    |    **Team**   | **Appearences** |
@@ -134,7 +133,7 @@ Now let's see which teams score the most goals. In this analysis, we'll take a l
 | 9  | Internacional | 565 | 372 | 937   |
 | 10 | Athletico-PR  | 580 | 353 | 933   |
 
-Santos, Sao Paulo and Flamengo figure at the top of the highest scoring teams of all time. Does it mean they are the most effective attacks? Obviously, teams haven't played the same amount of games. To evaluate the team's attacking power, we have to consider their average of goals scored per game played.
+Santos, Sao Paulo and Flamengo figure at the top of the highest scoring teams of all time. Does it mean they are the most effective attacks? Not really. Teams haven't played the same amount of games. To evaluate the team's attacking power, we have to consider their average of goals scored per game played.
 
 ### Highest average goal scoring
 
@@ -144,7 +143,7 @@ Curiously, Barueri has the highest average of goals per game. This team took par
 
 ### Best scoring teams per season
 
-Our next analysis shows the best attacking teams per season. From 2006 and on, the best attacks scored close to 70 goals, with a clear outlier in 2019, when Flamengo scored 86 goals in 38 games, with the incredible average of 2.3 goals scored per game. Palmeiras and Flamengo are clearly dominating this category in the last few years, both leading the best attack for three consecutive years (Palmeiras - 16, 17, 18; Flamengo - 19, 20, 21).
+Our next analysis shows the best attacking teams per season. From 2006 onward, the best attacks scored close to 70 goals, with a clear outlier in 2019, when Flamengo scored 86 goals in 38 games, with the incredible average of 2.3 goals scored per game. Palmeiras and Flamengo are clearly dominating this category in the last few years, both leading the best attack for three consecutive years (Palmeiras - 16, 17, 18; Flamengo - 19, 20, 21).
 
 ![Screenshot](plot_HighTotalGoals.png)
 
@@ -242,7 +241,7 @@ The Brazilian League's First Division has been a pretty well balanced tournament
 
 Flamengo, Fluminense, Santos and Sao Paulo have been able to maintain themselves in the First Division throughout all 19 seasons, and all of them were able to win titles during the period of 2003 2021.
 
-Flamengo and Palmeiras, with major investments in football recently, were able to accomplish being the best attacks in the league for the last six years. Both of them were also able to win important continental titles and Brazilian cups - competitions that use the knock-out system - which shows how difficult it is to maintain consistency in round-robin tournaments.
+Having recently received significant investments, Flamengo and Palmeiras were able to accomplish becoming the best attacks in the league for the last six years. Both teams were also able to win important continental titles and Brazilian cups (competitions that use the knock-out system) which shows how difficult it is to maintain consistency in round-robin tournaments.
 
 
 
